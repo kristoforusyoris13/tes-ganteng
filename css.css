@@ -1,0 +1,5 @@
+body {background: url(batik.jpg) no-repeat center fixed}
+table {border-radius : 6px 6px;font-size:24px; }
+h1 {color:#00FFFF; font-family:Georgia; font-size: 24px;}
+h2 {color:#00FFFF; font-family:Georgia; font-size: 18px;}
+button {height: 36px; width: 69px; background:#00FF00; border-radius : 6px 6px}
